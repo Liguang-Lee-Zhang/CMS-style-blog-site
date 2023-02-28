@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Sal",
+    "blog_id": 1,
+    "user_id": 1
+  },
+  {
+    "content": "Lernantino",
+    "blog_id": 2,
+    "user_id": 2
+  },
+  {
+    "content": "Amiko",
+    "blog_id": 3,
+    "user_id": 3
+  }
+]
