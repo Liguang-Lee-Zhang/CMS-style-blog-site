@@ -17,7 +17,7 @@ Through this challenge, I learned that about using hooks and bcrypt to encrypt u
 
 ## Installation
 
-No installation needed. Proceed to the website at... to use the application. 
+No installation needed. Proceed to the website at https://intense-basin-99772.herokuapp.com/ to use the application. 
 
 ## Usage
 
